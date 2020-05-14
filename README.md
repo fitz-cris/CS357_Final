@@ -4,9 +4,11 @@ Created by Cris Fitzgerald
 Spring 
 
 Uses arduino IDE 
+
 Arduino Nano
+
 Xinda IR Remote
 
-Video of it in action: tk
+Video of it in action: https://youtu.be/jrQq4lBUvos
 
 
