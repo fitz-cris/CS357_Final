@@ -1,0 +1,45 @@
+CS 357 Final Project Cris Fitzgerald
+
+This project was a blast to complete. While challenging, I had fun creating it. 
+The physical product has 5 main components:
+- Xinda IR remote and reciever
+- Servo Motor
+- LCD display
+- Arduino Nano
+- Red and Green LEDs
+
+Originally I had planned to make the LEDS just one RGB LED that changed colors depending on 
+whether or not the input combination was correct, but the RGB LED needed 3 PWM output pins
+on the nano, and between the LCD and the Servo, I only had two to spare. I also originally
+wanted to mount the remote on the side of the safe like an atm, but you couldnt generate
+enough force to press the button without ripping it out of its housing. Better materials 
+would solve this problem. As it is, the remote will sometimes enter two of a number if you 
+hold the button down too long, and finding the right balance is a bit tough.
+
+The phsyical safe construction, while shoddy, is a proof of concept made of an old cardboard
+box, some hot glue, and staples. The actual lock mechanism is made with a bent paper clip
+hot glued to a popsicle stick, so that the servo motor can retract it.
+
+I created a library for the actual lock class itself so that the sensitive combination data 
+wouldnt be exposed to the other code. 
+
+github repo: https://github.com/fitz-cris/CS357_Final
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I would like to thank my dog, Mucha, for staying up late with me while I was bug fixing. 
