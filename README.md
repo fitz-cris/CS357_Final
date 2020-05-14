@@ -11,11 +11,9 @@ Uses:
 
 -Xinda IR Remote
 
--Two libraries:
-
--Arduino-IRremote-master
-
--Lock (Written by me)
+-Two libraries: <br /> 
+  - Arduino-IRremote-master <br />
+  - Lock (Written by me) <br />
 
 Video of it in action: https://youtu.be/jrQq4lBUvos
 
