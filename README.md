@@ -1,13 +1,21 @@
 # CS357_Final
 Final Project for CS 357 at WCSU
 Created by Cris Fitzgerald
-Spring 
+Spring 2020
 
-Uses arduino IDE 
+Uses:
 
-Arduino Nano
+-Arduino IDE 
 
-Xinda IR Remote
+-Arduino Nano
+
+-Xinda IR Remote
+
+-Two libraries:
+
+-Arduino-IRremote-master
+
+-Lock (Written by me)
 
 Video of it in action: https://youtu.be/jrQq4lBUvos
 
